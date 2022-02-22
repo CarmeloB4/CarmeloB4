@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Carmelo Bastillo, Front-end developer and Computer Science student 👨‍💻 I have been working as a developer for two years and I love discovering new technologies
+## I'm Carmelo Bastillo, Front-end developer and Computer Engineering student 👨‍💻 I have been working as a developer for two years and I love discovering new technologies
 
 [![Linkedin Badge](https://img.shields.io/badge/-carmelobastillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmelo-bastillo-58bb78148/)](https://www.linkedin.com/in/carmelo-bastillo-58bb78148/)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@carmelobastillo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CarmeloBastillo)](https://twitter.com/CarmeloBastillo)
