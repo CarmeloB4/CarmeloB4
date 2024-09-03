@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Carmelo Bastillo, Front-end Engineering 👨‍💻
+I'm Carmelo Bastillo, Front-end Engineer 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-carmelobastillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmelo-bastillo-58bb78148/)](https://www.linkedin.com/in/carmelo-bastillo-58bb78148/)
 
